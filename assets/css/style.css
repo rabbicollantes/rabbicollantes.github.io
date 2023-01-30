@@ -1,0 +1,373 @@
+/* This style is for paragraph */
+body {
+    display: block;
+    margin: 0px;
+    height: 0px;
+    padding: 50px;
+}
+.container {
+    width: 1400px;
+    margin: 0 auto;
+}
+header {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, .2);
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: -50px;
+}
+.image-container img {
+    width: 100px;
+    margin-left: -200px;
+}
+.image-container {
+    display: inline-block;
+}
+.navigation-container {
+    text-align: right;
+    padding-top: 47px;
+    float: right;
+}
+nav.header-navigation a {
+    font-size: 20px;
+    text-decoration: none;
+    margin: 30px;
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    padding: 5px;
+    background-color: orange;
+    border-style: solid;
+}
+
+/* Bnner Styles */
+.banner-section {
+    height: 1000px;
+    padding: 1px;
+    background: url(../images/banner.png);
+    background-size: cover;
+    margin-left: -50px;
+    margin-right: -50px;
+}
+h1 {
+    border-style: solid;
+    background-color: orange;
+    width: 469px;
+    margin-left: -200px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 35px;
+}
+
+/* About Me */
+section.about-section {
+    height: 1350px;
+    background: url(../images/Family_picture.png.jpg);
+    background-size: cover;
+    padding: 1px;
+    margin-left: -50px;
+    margin-right: -50px;
+}
+h2 {
+    border-style: solid;
+    background-color: orange;
+    width: 110px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: -200px;
+}
+.about-me p {
+    border-style: solid;
+    background-color: orange;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    width: 911px;
+    margin-left: -200px;
+}
+.about-family p {
+    border-style: solid;
+    background-color: orange;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    width: 911px;
+    margin-left: -200px;
+}
+.about-parents p {
+    border-style: solid;
+    background-color: orange;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    width: 911px;
+    margin-left: -200px;
+}
+
+/* Hobbies */
+section.hobbies {
+    background: url(../images/meme.jpeg);
+    background-size: cover;
+    padding: 1px;
+    margin-left: -50px;
+    margin-right: -50px;
+    height: 1751px;
+}
+h3 {
+    border-style: solid;
+    background-color: orange;
+    width: 137px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: -200px;
+}
+.ml-image img {
+    margin-left: 300px;
+    margin-bottom: -235px;
+}
+.hobbies-ml p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: -200px;
+}
+.eating-image img {
+    margin-bottom: -325px;
+    margin-left: 700px;
+}
+.hobbies-eating p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 1200px;
+    margin-top: 100px;
+}
+.sleep-image img {
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-bottom: -440px;
+    width: 339px;
+}
+.hobbies-sleep p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: -200px;
+    margin-top: 200px;
+}
+.anime-image img {
+    margin-bottom: -520px;
+    margin-left: 800px;
+}
+.hobbies-anime p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 1200px;
+    margin-top: 300px;
+}
+
+/* Skills */
+section.Skills {
+    background: url(../images/prog.jpeg);
+    background-size: cover;
+    margin-right: -100px;
+    margin-left: -750px;
+    padding: 1px;
+    height: 1831px;
+}
+h4 {
+    border-style: solid;
+    background-color: orange;
+    width: 137px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 115px;
+}
+.cook img {
+    margin-left: 575px;
+    margin-bottom: -280px;
+    height: 369px;
+}
+.cook p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 115px;
+}
+.drive img {
+    height: 230px;
+    margin-top: 200px;
+    margin-bottom: -495px;
+    margin-left: 1055px;
+}
+.drive p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 1530px;
+    margin-top: 300px;
+}
+.sport img {
+    height: 450px;
+    margin-left: 575px;
+    margin-top: 100px;
+    margin-bottom: -480px;
+}
+.sport p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 115px;
+    margin-top: 200px;
+}
+.non-sense img {
+    height: 250px;
+    margin-top: 200px;
+    margin-bottom: -430px;
+    margin-left: 1055px;
+}
+.non-sense p {
+    border-style: solid;
+    background-color: orange;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 1530px;
+    margin-top: 300px;
+}
+
+/* footer */
+footer {
+    padding: 106px;
+    background-color: rgba(0, 0, 0, .2);
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: -130px;
+}
+h5 {
+    border-style: solid;
+    background-color: orange;
+    width: 149px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    margin-left: -200px;
+}
+.discord {
+    float: left;
+    margin-right: 97px;
+    margin-left: 200px;
+}
+i.bx.bxl-discord-alt {
+    color: #fdfdfd;
+    border-style: solid;
+    background-color: #7778f1;
+    border-color: #7778f1;
+    font-size: 100px;
+}
+.discord p {
+    border-style: solid;
+    background-color: orange;
+    width: 162px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
+.facebook {
+    float: left;
+    margin-right: 100px;
+}
+i.bx.bxl-facebook-circle {
+    color: #fdfdfd;
+    background-color: blue;
+    border-color: blue;
+    font-size: 100px;
+}
+.facebook p {
+    border-style: solid;
+    background-color: orange;
+    width: 205px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
+.instagram {
+    float: left;
+    margin-right: 100px;
+}
+i.bx.bxl-instagram-alt {
+    color: #fdfdfd;
+    border-color: blue;
+    background-color: #ed0067;
+    font-size: 100px;
+}
+.instagram p {
+    border-style: solid;
+    background-color: orange;
+    width: 99px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
+.phone-number {
+    margin-right: 200px;
+}
+i.bx.bx-phone {
+    color: #fdfdfd;
+    border-color: blue;
+    background-color: #ed0067;
+    font-size: 100px;
+}
+.phone-number p {
+    border-style: solid;
+    background-color: orange;
+    width: 127px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 979px;
+}
